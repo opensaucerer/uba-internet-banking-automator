@@ -1,0 +1,11 @@
+/chrome-linux
+/chromedriver_linux64
+/firefox
+/sauce-connect
+.env
+*.zip
+*.bz2
+*.gz
+*.jar
+chromedriver
+geckodriver
